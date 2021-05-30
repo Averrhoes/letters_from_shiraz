@@ -1,7 +1,7 @@
 ---
 title: "Petrarch"
 date: 2021-05-30T03:32:23-04:00
-draft: true
+draft: false
 ---
 
 Petrarch remarks that there was nothing more deeply imprinted in his mind than Heraclitus' saying that "everything exists by strife". He saw continual change everywhere, starting with inanimate things and extending to the spiritual realm. Human life is especially beset by strife, especially the greater war that takes place within the soul. Even in times of peace, we are still attacked by our own passions, and to maintain his freedom, man must forever battle temptation. (Gillespie, p.48)

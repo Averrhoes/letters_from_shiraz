@@ -1,7 +1,7 @@
 ---
 title: "Descartes"
 date: 2021-05-30T03:32:23-04:00
-draft: true
+draft: false
 ---
 
 Descartes differs from [[Francis Bacon]] in that he has a unique notion of man's position with respect to both God and nature. In his early thought, he believed that he could construct a fundamental science on the basis of mathematics. This was to allow for a mathematical representation of all motion so man could truly master nature, an objective that Bacon first laid out. Descartes' project was called into question by the omnipotent God of [[nominalism]], which undermined the certainty of mathematics. This realization led to a spiritual crisis that ended with Descartes' articulation of his principle, "I think, therefore I am". His scientific project is ultimately a resposne to the problem posed by nominalism. (Gillespie, p. 40)

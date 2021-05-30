@@ -1,7 +1,7 @@
 ---
 title: "Francis Bacon"
 date: 2021-05-30T03:32:23-04:00
-draft: true
+draft: false
 ---
 
 Francis Bacon is often characterized as the father of modern science. He was a nominalist that rejected the existence of anything other than individual bodies in nature, which perform individual acts. 

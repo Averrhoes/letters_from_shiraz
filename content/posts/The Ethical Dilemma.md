@@ -1,7 +1,7 @@
 ---
 title: "The Ethical Dilemma"
 date: 2021-05-30T03:32:23-04:00
-draft: false
+draft: true
 ---
 
 Ibn Taymiyya places emphasis on wasat (moderation), as the most sound position is often the one which “unites the elements of truth that different views contain and steers clear from the error they contain”. This justifies his engagement and limited openness with heterodox ideologies, such as that of the Mu’tazilites. The Mu'tazilites argued that actions are inherently good or bad because they are known by reason to be so. According to them, the divine law only confirms and particularizes this knowledge. Just as these moral limits apply to man, the Mu’tazilites say that they also apply to God. In contrast, the Ash’arites say that actions are “rendered good or bad through the divine command or prohibition that attaches to them”. The values, or the characteristics of actions, is created by the act of commanding. There is no comprehensible reason as to why God commands what he does. Ibn Taymiyya’s conception of ethical value is grounded in the notion of the utility and welfare of actions.

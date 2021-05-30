@@ -1,6 +1,6 @@
 baseURL = "https://lettersfromshiraz.com/"
 languageCode = "en-us"
-title = "Letters from Shiraz 🌹"
+title = "Letters from Shiraz"
 theme = "paperesque-mainline"
 
 [[params.menu]]

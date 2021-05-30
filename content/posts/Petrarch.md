@@ -4,7 +4,7 @@ date: 2021-05-30T03:32:23-04:00
 draft: false
 ---
 
-[Portrait of Petrarch, French School](/static/Petrarch,_French_School.jpg)
+![Portrait of Petrarch, French School](/static/Petrarch,_French_School.jpg)
 
 Petrarch remarks that there was nothing more deeply imprinted in his mind than Heraclitus' saying that "everything exists by strife". He saw continual change everywhere, starting with inanimate things and extending to the spiritual realm. Human life is especially beset by strife, especially the greater war that takes place within the soul. Even in times of peace, we are still attacked by our own passions, and to maintain his freedom, man must forever battle temptation. (Gillespie, p.48)
 
@@ -38,4 +38,4 @@ Our passions fade with death, death can be overcome by fame, but fame then falls
 
 Petrarch sought to synthesize Augustinianism, which emphasizes man's dependence on his creator, with a Stoicism, which gives importance to man's independence. This is all enclosed in Petrarch's individualism, which was derived from nominalism. (Gillespie, p. 67)
 
-[^bignote]: Such a change required a vision of the good life, which was Petrarch's immediate objective. Petrarch's project was thoroughly one of cultural renewal.
+[^bignote]: Such a change required a vision of the good life, which was Petrarch's immediate objective. His project was thoroughly one of cultural renewal.

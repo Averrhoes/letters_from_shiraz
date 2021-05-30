@@ -4,13 +4,15 @@ date: 2021-05-30T03:32:23-04:00
 draft: false
 ---
 
+[Portrait of Petrarch, French School](/static/Petrarch,_French_School.jpg)
+
 Petrarch remarks that there was nothing more deeply imprinted in his mind than Heraclitus' saying that "everything exists by strife". He saw continual change everywhere, starting with inanimate things and extending to the spiritual realm. Human life is especially beset by strife, especially the greater war that takes place within the soul. Even in times of peace, we are still attacked by our own passions, and to maintain his freedom, man must forever battle temptation. (Gillespie, p.48)
 
-While he agreed with [[nominalism]] in its critique of [[realism]] and Aristotlean categories, but he detested the dialectical approach its adherents took. Theology had become increasingly distinct from piety and its abstract language or technical terms made it impossible to inspire ordinary men. (Gillespie, p. 50)
+While he agreed with nominalism in its critique of realism and Aristotlean categories, he detested the dialectical approach its adherents took. Theology had become increasingly distinct from piety and its abstract language or technical terms made it impossible to inspire ordinary men. (Gillespie, p. 50)
 
 In spite of praising their religiosity, Petrarch found the lives of asetics inhuman. They avoided corruption, but only by going to the opposite extreme. In his view, a middle way was needed, instead of a life of excess or deprivation. Man can only find solace with building virtue in the war with fortune, which brings either prosperity or adversity. (Gillespie, p. 51)
 
-He hoped to persuade the aristocracy to honor virtue and wisdom instead of wealth, which would serve as the model for the rest of humanity. Such a change required a vision of the good life, which was Petrarch's immediate objective. Petrarch's project was thoroughly one of cultural renewal. He recognized the importance of political support for culture, but did not place it above the latter. The ideal community was one in which human beings were held together by the voluntary bonds of friendship, instead of the natural bonds of politics. It would be more of a fellowship of private men in friendly intercourse with one another through speech and books, rather than a republic or principality. (Gillespie, p. 52)
+He hoped to persuade the aristocracy to honor virtue and wisdom instead of wealth, which would serve as the model for the rest of humanity.[^bignote] He recognized the importance of political support for culture, but did not place it above the latter. The ideal community was one in which human beings were held together by the voluntary bonds of friendship, instead of the natural bonds of politics. It would be more of a fellowship of private men in friendly intercourse with one another through speech and books, rather than a republic or principality. (Gillespie, p. 52)
 
 The problem that Petrarch recognized in a world marked by strife is that there are no natural ends for humans to pursue. This follows from the nominalist premise that there are no substantial forms, no real species, and therefore no natural ends. In order for men to understand what ends they should pursue, it is necessary to understand who they are, as each individual is created immediately and uniquely by God. (Gillespie, p. 52)
 
@@ -26,7 +28,7 @@ Petrarch does not mean that everyone should follow their desires, but one must i
 Unlike the solitude of monks, solitary life for Petrarch is not one of isolation. It is private fellowship of like-minded friends, who engage in continual conversation either in-person or through writing. He acknowledges that solitude is not for everyone, but he will be happy if he can persuade a few to follow that path and the rest to view it more positively. (Gillespie, p. 64)
 
 # Petrarch's Idea of Virtue
-Our passions fade with death, death can be overcome by fame, but fame then falls prey to time. The triumph of time is only possible through religion, which is for Petrarch, Christianity. However, he shows indifference to the Christianity of his day, and gives little importance to prayer or the problem of damnation. His goal was not redemption by divine grace, but self-perfection through the human will. In this way, Petrarch holds an outlook similiar to [[pelagianism]]. (Gillespie, p. 59)
+Our passions fade with death, death can be overcome by fame, but fame then falls prey to time. The triumph of time is only possible through religion, which is for Petrarch, Christianity. However, he shows indifference to the Christianity of his day, and gives little importance to prayer or the problem of damnation. His goal was not redemption by divine grace, but self-perfection through the human will. In this way, Petrarch holds an outlook similiar to pelagianism. (Gillespie, p. 59)
 
 > Though our ultimate goal does not lie in virtue, where the philosophers locate it, it is through the virtues that the direct way leads to the place where it does lie; and those virtues, I must add must be not merely known but loved.
 >  
@@ -35,3 +37,5 @@ Our passions fade with death, death can be overcome by fame, but fame then falls
 > In this life it is impossible to know God in His fullness; piously and ardently to love Him is possible, as it is to know that virtue is the next best thing to God himself. When we know this, we shall love Him for his sake with our heart and marrows, and virtue we shall love for His sake too.
 
 Petrarch sought to synthesize Augustinianism, which emphasizes man's dependence on his creator, with a Stoicism, which gives importance to man's independence. This is all enclosed in Petrarch's individualism, which was derived from nominalism. (Gillespie, p. 67)
+
+[^bignote]: Such a change required a vision of the good life, which was Petrarch's immediate objective. Petrarch's project was thoroughly one of cultural renewal.

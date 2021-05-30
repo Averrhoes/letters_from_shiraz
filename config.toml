@@ -1,4 +1,4 @@
-baseURL = "http://lettersfromshiraz.com/"
+baseURL = "https://lettersfromshiraz.com/"
 languageCode = "en-us"
 title = "Letters from Shiraz 🌹"
 theme = "paperesque-mainline"

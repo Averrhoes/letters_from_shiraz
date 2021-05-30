@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://lettersfromshiraz.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Letters from Shiraz 🌹"
 theme = "paperesque-mainline"
 
 [[params.menu]]

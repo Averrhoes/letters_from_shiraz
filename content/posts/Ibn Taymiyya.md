@@ -1,7 +1,7 @@
 ---
 title: "Ibn Taymiyya"
 date: 2021-05-30T03:32:23-04:00
-draft: true
+draft: false
 ---
 
 Ibn Taymiyya was a sigificant Hanbali jurist-theologian. Known for his polemical stances, his thought must nonetheless be understood with reference to a broader method andtheological vision. He builds off, albeit in a critical, the thought of [[Ibn Sina]], [[Abu Hamid al-Ghazali]], and [[Fakhr al-Din al-Razi]].
